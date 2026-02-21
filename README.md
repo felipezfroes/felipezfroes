@@ -7,7 +7,7 @@
 <div align="left">
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=felipezfroes&layout=compact&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=felipezfroes&layout=compact&card_width=400&custom_title=Most%20Used%20Languages&theme=dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=felipezfroes&layout=compact&card_width=350&custom_title=Most%20Used%20Languages&theme=dark&hide_border=true&langs_count=8)
 
 </tr>
 
