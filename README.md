@@ -6,7 +6,7 @@
 
 <p align="center">
   17 anos, construindo projetos reais desde os 15.<br>
-  Atualmente desenvolvendo <strong>Ecos do Olimpo</strong> — um jogo de ação mitológica em GameMaker Studio 2, com demo prevista para 2026.<br>
+  Atualmente desenvolvendo <strong>Ecos do Olimpo</strong> — jogo 2D pixel art solo em GameMaker Studio 2, com demo prevista para 2026.<br>
   Focado em evoluir do front-end para aplicações completas.
 </p>
 
@@ -14,9 +14,9 @@
 
 ### 🚧 O que estou construindo agora
 
-- 🎮 **Ecos do Olimpo** — jogo indie em GameMaker Studio 2, demo em desenvolvimento
+- 🏛️ **Ecos do Olimpo** — jogo indie solo em GameMaker Studio 2 · [Landing page](https://ecos-do-olimpo.felipezfroes.com) · [itch.io](https://fzf-productions.itch.io/ecos-do-olimpo)
 - 🌐 **Portfólio** — [felipezfroes.com](https://felipezfroes.com)
-- 📹 **Canal de GameDev** — devlogs do processo de desenvolvimento [@FZF_Productions](https://www.youtube.com/@FZF_Productions)
+- 📹 **Canal de GameDev** — devlogs do processo de desenvolvimento · [@FZF_Productions](https://www.youtube.com/@FZF_Productions)
 - 📚 **Aprendendo** — React, componentes, hooks e APIs
 
 ---
@@ -42,6 +42,7 @@
 ---
 
 <div align="center">
+  <a href="https://fzf-productions.itch.io" target="_blank"><img src="https://img.shields.io/badge/-itch.io-%23FF0B34?style=for-the-badge&logo=itch.io&logoColor=white"></a>
   <a href="https://www.youtube.com/@FZF_Productions" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://instagram.com/felipe_zfr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:felipefroes.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
