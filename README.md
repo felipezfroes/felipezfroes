@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  17 anos, construindo projetos reais desde os 15.<br>
+  18 anos, construindo projetos reais desde os 15.<br>
   Atualmente desenvolvendo <strong>Ecos do Olimpo</strong> — jogo 2D pixel art solo em GameMaker Studio 2, com demo prevista para 2026.<br>
   Focado em evoluir do front-end para aplicações completas.
 </p>
